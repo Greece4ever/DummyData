@@ -876,7 +876,6 @@ words = [
   "elite",
   "else",
   "elsewhere",
-  e-mail
   "embrace",
   "emerge",
   "emergency",
@@ -1559,7 +1558,6 @@ words = [
   "location",
   "lock",
   "long",
-  long-term
   "look",
   "loose",
   "lose",
@@ -1668,7 +1666,6 @@ words = [
   "mistake",
   "mix",
   "mixture",
-  mm-hmm
   "mode",
   "model",
   "moderate",
@@ -2457,7 +2454,6 @@ words = [
   "snap",
   "snow",
   "so",
-  so-called
   "soccer",
   "social",
   "society",
@@ -2997,5 +2993,5 @@ words = [
   "yours",
   "yourself",
   "youth",
-  "zone",
+  "zone"
 ]
